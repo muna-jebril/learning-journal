@@ -11,15 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# growth mindset
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. intelgent
+2.hard worker 
+3.
+
+##  how to keep yourself in a growth mindset??
+-never **give up** keep trying.
+-their is no thing you can`t do it.
+-if you *fail it`s* mean that your on the right way 
 
 **Bold** and _Italic_ and `Code` text
 
