@@ -1,43 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/muna-jebril/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # growth mindset
-## Header 2
-### Header 3
+ griwth minddet is when you use your talent and your mind to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
-- Bulleted
-- List
-
-1. intelgent
-2.hard worker 
-3.
+###How you can benefit from a growth mindset??
+* Become more creativity and possibility
+*  Enableing  the setting of higher goals and more achievement.
 
 ##  how to keep yourself in a growth mindset??
 -never **give up** keep trying.
--their is no thing you can`t do it.
--if you *fail it`s* mean that your on the right way 
+-their is no thing you cant do it.
+-if you *fail its* mean that your on the right way 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ ![Tux, the Linux mascot](https://cdn5.vectorstock.com/i/1000x1000/12/79/be-brave-calligraphy-design-vector-16101279.jpg)
+>When we’re growing, we’re more productive. And when I’m productive, I feel better. And you can, too.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###About me 
+my name is muna jebril i just gradiented from al albyat university i worked in soical media for 6 month i like coding and im hoping to become a  full-stack devloper. :smile:
 
-### Jekyll Themes
+This  is my site  [my page](https://github.com/muna-jebril/learning-journal/settings).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muna-jebril/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
