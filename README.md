@@ -8,9 +8,9 @@
 *  Enableing  the setting of higher goals and more achievement.
 
 ##  how to keep yourself in a growth mindset??
-- never **give up** keep trying.
-- their is no thing you cant do it.
-- if you *fail its* mean that your on the right way 
+1. never **give up** keep trying.
+2. their is no thing you cant do it.
+3. if you *fail its* mean that your on the right way 
 
 
  ![Tux, the Linux mascot](https://cdn5.vectorstock.com/i/1000x1000/12/79/be-brave-calligraphy-design-vector-16101279.jpg)
