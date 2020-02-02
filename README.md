@@ -3,7 +3,7 @@
 # growth mindset
  griwth minddet is when you use your talent and your mind to more creativity and possibility, and enable the setting of higher goals and more achievement.
 
-###How you can benefit from a growth mindset??
+### How you can benefit from a growth mindset??
 * Become more creativity and possibility
 *  Enableing  the setting of higher goals and more achievement.
 
