@@ -13,12 +13,12 @@
 3. if you *fail its* mean that your on the right way 
 
 
- ![Tux, the Linux mascot](https://cdn5.vectorstock.com/i/1000x1000/12/79/be-brave-calligraphy-design-vector-16101279.jpg)
+ ![image](https://cdn5.vectorstock.com/i/1000x1000/12/79/be-brave-calligraphy-design-vector-16101279.jpg)
 >When we’re growing, we’re more productive. And when I’m productive, I feel better. And you can, too.
 
 ### About me 
 my name is muna jebril i just gradiented from al albyat university i worked in soical media for 6 month i like coding and i\`m hoping to become a  full-stack devloper. :smile:
 
-This  is my site  [my page](https://github.com/muna-jebril/learning-journal/settings).
+This  is my site  [my github acount](https://github.com/muna-jebril/learning-journal/settings).
 
 
